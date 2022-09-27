@@ -798,13 +798,13 @@ logo = """
 
                                                    
 
-\033[1;93m Author: Silent hacker 
+\033[1;93m Author: YZYD
 
 
-\033[1;93m Facebook: kio batao
+\033[1;93m Facebook: YZYD LY
 
 
-\033[1;93m YOUTUBE : abi tak channel hi nai banai 😢
+\033[1;93m YOUTUBE : YZYD GMAING
 
 
 \033[1;91m Janii  WELCOME TO MY hicking world
